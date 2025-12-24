@@ -16,6 +16,7 @@ export default function Home() {
           <Link href="/" style={{ color: 'white' }}>Home</Link>
           <Link href="/about" style={{ color: 'white' }}>About</Link>
   <Link href="/daily" style={{ color: 'white' }}>Daily</Link>
+  <Link href="/big-three" style={{ color: 'white' }}>Big Three</Link>
         </div>
       </nav>
 
