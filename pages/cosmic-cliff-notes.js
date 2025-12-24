@@ -66,8 +66,9 @@ export default function CosmicCliffNotes() {
       }}>
         <h1>Cosmic Cliff Notes</h1>
         <p style={{ maxWidth: '700px', lineHeight: 1.6 }}>
-          Astrology symbols are a language. Learn the basics here, then
-          layer them together at your own pace.
+          Astrology has a lot of symbols. This is the short version.
+No gatekeeping, no overwhelm — just the core ideas you actually
+need to know.
         </p>
 
         {Object.entries(sections).map(([title, items]) => (
