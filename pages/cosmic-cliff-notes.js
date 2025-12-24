@@ -36,7 +36,7 @@ const sections = {
   ]
 };
 
-export default function Cosmic Cliff Notes() {
+export default function CosmicCliffNotes() {
   return (
     <>
       <nav style={{
