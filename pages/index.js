@@ -17,6 +17,7 @@ export default function Home() {
           <Link href="/about" style={{ color: 'white' }}>About</Link>
   <Link href="/daily" style={{ color: 'white' }}>Daily</Link>
   <Link href="/big-three" style={{ color: 'white' }}>Big Three</Link>
+  <Link href="/cosmic-cliff-notes">Cosmic Cliff Notes</Link>
         </div>
       </nav>
 
