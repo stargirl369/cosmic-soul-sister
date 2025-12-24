@@ -15,6 +15,7 @@ export default function Home() {
         <div style={{ display: 'flex', gap: '1rem' }}>
           <Link href="/" style={{ color: 'white' }}>Home</Link>
           <Link href="/about" style={{ color: 'white' }}>About</Link>
+  <Link href="/daily" style={{ color: 'white' }}>Daily</Link>
         </div>
       </nav>
 
