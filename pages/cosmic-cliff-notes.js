@@ -52,7 +52,7 @@ export default function CosmicCliffNotes() {
           <Link href="/">Home</Link>
           <Link href="/daily">Daily</Link>
           <Link href="/big-three">Big Three</Link>
-          <Link href="/chart-meanings">Cosmic Cliff Notes</Link>
+          <Link href="/cosmic-cliff-notes">Cosmic Cliff Notes</Link>
           <Link href="/about">About</Link>
         </div>
       </nav>
